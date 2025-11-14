@@ -8,7 +8,7 @@
   "containerDefinitions": [
     {
       "name": "my-app-container",
-      "image": "123456789012.dkr.ecr.us-east-1.amazonaws.com/my-app-repo",
+      "image": "989702824776.dkr.ecr.us-east-1.amazonaws.com/my-app-repo",
       "portMappings": [
         {
           "containerPort": 80,
